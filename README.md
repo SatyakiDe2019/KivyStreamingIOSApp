@@ -32,16 +32,16 @@ Run the dummy event generation IoT-App:
 python IoTDataGen.py
 ```
 
-Run the Kivy-driven App:
-
-```bash
-python main.py
-```
-
 On a separate tab run this command:
 
 ```bash
 source venv/bin/activate
+```
+
+Run the Kivy-driven App:
+
+```bash
+python main.py
 ```
 
 ## Screenshots
