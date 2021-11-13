@@ -2,7 +2,7 @@
 
 ## About this app
 
-This app consuming streaming data from Ably channels & captured IOT events from the simulator & publish them inside a Dashboard of Kivy-build Python-app through measured KPIs.
+This app consuming streaming data from Ably channels & captured IoT events from the simulator & publish them inside a Dashboard of Kivy-build Python-app through measured KPIs.
 
 
 ## How to run this app
