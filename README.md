@@ -1,4 +1,4 @@
-# Real-time I-OS App displaying streaming data using Matplotlib & Python
+# Real-time iOS App displaying streaming data using Matplotlib & Python
 
 ## About this app
 
@@ -38,7 +38,7 @@ On a separate tab run this command:
 source venv/bin/activate
 ```
 
-Run the Kivy-driven IOS App:
+Run the Kivy-driven iOS App:
 
 ```bash
 python main.py
