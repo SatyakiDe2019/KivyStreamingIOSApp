@@ -38,7 +38,7 @@ On a separate tab run this command:
 source venv/bin/activate
 ```
 
-Run the Kivy-driven App:
+Run the Kivy-driven IOS App:
 
 ```bash
 python main.py
